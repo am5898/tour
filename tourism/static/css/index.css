@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Pharaoh';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/Pharaoh.otf);
+    
+  }
+.jumbotron{
+    background-image: url("../image/egipto-3.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 520px;
+    margin-bottom: 0;
+    
+}
+.jumbotron h1{
+    text-align: right
+}
+.myfont{
+    text-align: right;
+    font-family: Pharaoh;
+}
+.fontmt{
+    font-family: 'Acme', sans-serif;
+} 
+
+.pagepadding{
+    padding: 60px 0 50px 0 ; 
+    margin: 0 0 0 0;
+    background-color: #ecf0f1;
+
+  
+}
+.servic{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: 'Acme', sans-serif;
+}
+.iconpadding{
+    padding-bottom: 40px;
+}
+.mt-0{
+    padding-top: 30px
+}
+.servicpadding{
+    padding: 60px 0 50px 0;
+    background-image: url("../image/buss1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.tourstyle-1 , .team {
+    padding: 50px;
+}
+.text-muted{
+    text-align: center;
+}
+.tourstyle-2 ,.contactus{
+    padding: 50px;
+    background-color: #ecf0f1;
+}
+.team{
+    background-image: url("../image/Amoy-MenuBar-bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ecf0f1;
+}
+.team-names{
+    text-align: center;
+    
+    font-family: 'Titillium Web', sans-serif;
+}
+.contactus{
+    background-image: url("http://www.dawnbit.com/wp-content/uploads/2017/07/contact.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ecf0f1;
+}
+ul{
+    list-style-type: none;
+    padding: 0
+}
+.footer{
+    background-image: url("https://www.synergymarinegroup.com/wp-content/uploads/2014/12/footer-background-01-noise.png");
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ecf0f1;
+    
+/* this is merely a rough demo to showcase the potential of CSS ICON on animation, more crafted animation can go from here */
+/* 
+font-family: 'Cairo', sans-serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Kosugi Maru', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Acme', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif;
+ */
